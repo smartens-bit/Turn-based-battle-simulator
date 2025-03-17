@@ -8,7 +8,7 @@ Clone the repository:
 git clone https://github.com/yourusername/turn-based-battle-simulator.git
 cd turn-based-battle-simulator
 
-
 Usage
-Run the simulator with: python battle_simulator.py
+Run the simulator with: 
+python battle_simulator.py
 Follow the on-screen prompts to choose your actions during battle.
