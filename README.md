@@ -5,8 +5,8 @@ Installation
 Requirements: Python 3.6+
 
 Clone the repository:
-git clone https://github.com/yourusername/turn-based-battle-simulator.git
-cd turn-based-battle-simulator
+/git clone https://github.com/yourusername/turn-based-battle-simulator.git
+/cd turn-based-battle-simulator
 
 Usage
 Run the simulator with: 
