@@ -11,4 +11,4 @@ Clone the repository:
 Usage
 Run the simulator with: 
 - python battle_simulator.py
-Follow the on-screen prompts to choose your actions during battle.
+- Follow the on-screen prompts to choose your actions during battle.
